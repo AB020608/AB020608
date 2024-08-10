@@ -3,7 +3,7 @@
 Meu nome é *Ana Beatriz*
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Sou estudante da 1série do ensino médio
+- Sou estudante da 1°série do ensino médio
 - Tenho muita facilidade em aprender coisas novas
 - Fui aluna destaque por 3 bimestres consecutivos
 - Tenho facilidade em fazer novos amigos
